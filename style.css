@@ -51,6 +51,10 @@
 .main-section{
     display: flex;
     background-image: url("images/shapes/7.png");
+    background-image: url("images/shapes/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    /* background-image: url("images/shapes/exp-bg.png"); */
     width: 95%;
     margin: 0 auto;
     height: 400px;
