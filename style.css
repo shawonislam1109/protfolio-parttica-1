@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@300&family=Charis+SIL:wght@700&family=Joan&family=PT+Sans+Narrow&family=Smooch&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Anek Latin', sans-serif;
+}
+.main-header{
+    display: flex;
+    padding: 20px;
+}
+.header-span{
+    color: orange;
+}
+.header-div{
+    width: 50%;
+    margin-top: 70px;
+    padding: 10px;
+}
+.header-div h1{
+    margin-bottom: 20px;
+    color: yellowgreen;
+    font-size: 3rem;
+}
+.header-img{
+    width: 30%;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.header-img .img-1{
+    width: 100%;
+
+}
+.header-paragraph{
+    margin-bottom: 20px;
+    color:tomato;
+    font-size: 30px;
+}
+.header-button{
+    padding: 20px;
+    width: 150px;
+    background-image: linear-gradient(yellowgreen, gold);
+    border: none;
+    border-radius: 100px;
+    margin-top: 30px;
+}
